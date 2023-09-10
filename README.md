@@ -4,8 +4,8 @@
 
 ###### h3
 
-```
-let a=5
+```js
+let a = 5;
 ```
 
 ## Table of content
